@@ -1,8 +1,7 @@
-<h2 align="left">Hi 👋! My name is Sarah (AKA Moon) and I'm a webdev from the Kingdom of the Netherlands</h2>
+<h2 align="left">Hi 👋! My name is Yumiya and I'm a webdev from the Kingdom of the Netherlands</h2>
 
 ###
 
-<p align="left">I'm basically 100% frontend but i do some back-end (php) sometimes though barely. Im 16 years old and i am currently in my 5th year of VWO and follow Informatica (informatics) as a subject in my profielkeuze (N&T) and i am planning to study computer science after i have completed my VWO.</p>
 
 ###
 
